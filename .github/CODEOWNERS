@@ -1,0 +1,4 @@
+# CODEOWNERS file for GitHub repository
+# This file defines who is automatically requested for review
+# The following pattern ensures all files are owned by @saurabhm02
+*       @saurabhm02
