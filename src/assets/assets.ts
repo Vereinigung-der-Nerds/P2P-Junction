@@ -1,0 +1,2 @@
+export const logo = "https://res.cloudinary.com/saurabhdata/image/upload/v1735326277/saurabh/p2plogo.png";
+export const plusicon = "https://res.cloudinary.com/saurabhdata/image/upload/v1735328494/saurabh/plusIcon.png";

@@ -1,12 +1,13 @@
 import React from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
+import Splash from './screens/Splash';
+
 
 const App = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>P2P Junction</Text>
-      
+      <Splash />
     </View>
   );
 };

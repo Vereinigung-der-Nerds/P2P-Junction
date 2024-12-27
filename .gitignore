@@ -72,3 +72,20 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+
+# iOS related
+ios/Pods/
+ios/build/
+
+# Xcode user-specific files
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Ruby related (if not using Ruby)
+Gemfile.lock
+
+# CocoaPods lockfile (optional, if not needed)
+Podfile.lock
